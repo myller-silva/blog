@@ -1,0 +1,21 @@
+.articles{
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+
+.articles__others{
+  display: flex;
+  flex-direction: column;
+}
+
+.articles__others{
+  /* border: solid 1px; */
+}
+
+header{
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+}

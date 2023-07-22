@@ -1,0 +1,16 @@
+ul{
+  list-style: none;
+}
+
+/* .container__menu__bar{
+  margin-top: 10px;
+} */
+
+.container__menu__bar>ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu__bar>ul>li{
+  margin: 20px;
+}
